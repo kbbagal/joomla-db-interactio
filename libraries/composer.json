@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tschoffelen/db.php": "^1.1"
+    }
+}
